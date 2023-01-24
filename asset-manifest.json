@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RajScreenRecorder/static/css/main.66aea9e3.css",
-    "main.js": "/RajScreenRecorder/static/js/main.33f23238.js",
+    "main.css": "/RajScreenRecorder/static/css/main.5fd5fde3.css",
+    "main.js": "/RajScreenRecorder/static/js/main.47db015e.js",
     "static/js/787.c53e5204.chunk.js": "/RajScreenRecorder/static/js/787.c53e5204.chunk.js",
     "index.html": "/RajScreenRecorder/index.html",
-    "main.66aea9e3.css.map": "/RajScreenRecorder/static/css/main.66aea9e3.css.map",
-    "main.33f23238.js.map": "/RajScreenRecorder/static/js/main.33f23238.js.map",
+    "main.5fd5fde3.css.map": "/RajScreenRecorder/static/css/main.5fd5fde3.css.map",
+    "main.47db015e.js.map": "/RajScreenRecorder/static/js/main.47db015e.js.map",
     "787.c53e5204.chunk.js.map": "/RajScreenRecorder/static/js/787.c53e5204.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66aea9e3.css",
-    "static/js/main.33f23238.js"
+    "static/css/main.5fd5fde3.css",
+    "static/js/main.47db015e.js"
   ]
 }
